@@ -1,1 +1,1 @@
-# miming_calc
+# mining_calc
